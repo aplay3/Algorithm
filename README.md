@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aplay3/Algorithm/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/aplay3/Algorithm/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/aplay3/Algorithm/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/aplay3/Algorithm/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/aplay3/Algorithm/tree/master/2502-sort-the-people) |
 ## Stack
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aplay3/Algorithm/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/aplay3/Algorithm/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/aplay3/Algorithm/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
 | ------- |
@@ -55,4 +57,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1196-filling-bookcase-shelves](https://github.com/aplay3/Algorithm/tree/master/1196-filling-bookcase-shelves) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/aplay3/Algorithm/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
