@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/aplay3/Algorithm/tree/master/1511-count-number-of-teams) |
 | [1720-crawler-log-folder](https://github.com/aplay3/Algorithm/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aplay3/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aplay3/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2502-sort-the-people](https://github.com/aplay3/Algorithm/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -71,5 +72,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/aplay3/Algorithm/tree/master/0906-walking-robot-simulation) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aplay3/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aplay3/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Binary Search
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aplay3/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aplay3/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
