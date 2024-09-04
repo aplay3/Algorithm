@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/aplay3/Algorithm/tree/master/0906-walking-robot-simulation) |
 | [1196-filling-bookcase-shelves](https://github.com/aplay3/Algorithm/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/aplay3/Algorithm/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/aplay3/Algorithm/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/aplay3/Algorithm/tree/master/0906-walking-robot-simulation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aplay3/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/aplay3/Algorithm/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
@@ -64,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/aplay3/Algorithm/tree/master/1511-count-number-of-teams) |
+## Simulation
+|  |
+| ------- |
+| [0906-walking-robot-simulation](https://github.com/aplay3/Algorithm/tree/master/0906-walking-robot-simulation) |
 <!---LeetCode Topics End-->
