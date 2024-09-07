@@ -33,14 +33,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/aplay3/Algorithm/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/aplay3/Algorithm/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/aplay3/Algorithm/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/aplay3/Algorithm/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/aplay3/Algorithm/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/aplay3/Algorithm/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Matrix
 |  |
@@ -82,4 +85,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aplay3/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Linked List
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/aplay3/Algorithm/tree/master/1484-linked-list-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/aplay3/Algorithm/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
