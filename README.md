@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/aplay3/Algorithm/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aplay3/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aplay3/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2411-spiral-matrix-iv](https://github.com/aplay3/Algorithm/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/aplay3/Algorithm/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aplay3/Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/aplay3/Algorithm/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2411-spiral-matrix-iv](https://github.com/aplay3/Algorithm/tree/master/2411-spiral-matrix-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/aplay3/Algorithm/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aplay3/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aplay3/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2411-spiral-matrix-iv](https://github.com/aplay3/Algorithm/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/aplay3/Algorithm/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/aplay3/Algorithm/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aplay3/Algorithm/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aplay3/Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Breadth-First Search
