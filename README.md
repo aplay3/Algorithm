@@ -104,9 +104,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/aplay3/Algorithm/tree/master/0670-maximum-swap) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aplay3/Algorithm/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aplay3/Algorithm/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/aplay3/Algorithm/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
