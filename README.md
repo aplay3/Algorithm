@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aplay3/Algorithm/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/aplay3/Algorithm/tree/master/1304-longest-happy-string) |
 | [1720-crawler-log-folder](https://github.com/aplay3/Algorithm/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aplay3/Algorithm/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aplay3/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -114,4 +115,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/aplay3/Algorithm/tree/master/0670-maximum-swap) |
+| [1304-longest-happy-string](https://github.com/aplay3/Algorithm/tree/master/1304-longest-happy-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/aplay3/Algorithm/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
