@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/aplay3/Algorithm/tree/master/1511-count-number-of-teams) |
 | [1720-crawler-log-folder](https://github.com/aplay3/Algorithm/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aplay3/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1972-rotating-the-box](https://github.com/aplay3/Algorithm/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aplay3/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2411-spiral-matrix-iv](https://github.com/aplay3/Algorithm/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/aplay3/Algorithm/tree/master/2502-sort-the-people) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/aplay3/Algorithm/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1972-rotating-the-box](https://github.com/aplay3/Algorithm/tree/master/1972-rotating-the-box) |
 | [2411-spiral-matrix-iv](https://github.com/aplay3/Algorithm/tree/master/2411-spiral-matrix-iv) |
 ## Sorting
 |  |
@@ -124,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/aplay3/Algorithm/tree/master/3189-find-champion-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/aplay3/Algorithm/tree/master/1972-rotating-the-box) |
 <!---LeetCode Topics End-->
